@@ -45,6 +45,7 @@ The Airbnb Clone project leverages modern, scalable technologies to ensure a rob
 
 
 
+
 ## 👥 Team Roles
 
 To build a scalable and reliable Airbnb Clone backend, the project involves several key roles. Each role is responsible for a critical part of the development process, ensuring quality, efficiency, and maintainability.
@@ -62,6 +63,7 @@ Handles deployment, monitoring, scaling, and continuous integration/continuous d
 Tests the system to ensure all features behave as expected. This includes writing unit tests, integration tests, and performing manual and automated tests to catch bugs and edge cases early.
 
 ---
+
 
 
 
@@ -150,6 +152,7 @@ Represents feedback from users about properties.
 - **One User → Many Reviews**
 
 ---
+
 
 
 
